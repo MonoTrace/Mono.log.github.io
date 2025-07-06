@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "모노.로그"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/MonoLog.png"
   bio              : "단색에서 색으로, 나의 성장 로그"
   location         : "South Korea"
   email            :
