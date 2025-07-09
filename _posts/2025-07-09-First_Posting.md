@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "첫 포스팅"
-categories: Hi
-tag: [Me]
+categories: First_Posting
+tag: First_Posting
 toc: true
 author_profile: false
 toc_label: 목차
